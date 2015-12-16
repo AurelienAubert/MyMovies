@@ -1,6 +1,6 @@
 <?php
 
-namespace Mymovies\DAO;
+namespace MyMovies\DAO;
 
 use MyMovies\Domain\Movie;
 
